@@ -1,0 +1,4 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\[RX]shieldTimer\Assemblies\[RX]shieldTimer.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\[RX]shieldTimer\Source\[RX]shieldTimer\obj\Debug\[RX]shieldTimer.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\[RX]shieldTimer\Source\[RX]shieldTimer\obj\Debug\[RX]shieldTimer.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\[RX]shieldTimer\Source\[RX]shieldTimer\obj\Debug\[RX]shieldTimer.dll
